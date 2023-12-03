@@ -2,7 +2,8 @@
 <manifest>
   <remote fetch="../" name="Forest-Cxh" review="https://github.com/Forest-Cxh/try_manifest"/>
   <default remote="Forest-Cxh" revision="TRY_Master" sync-c="true" sync-j="4" />
-  
-  <project name="iotop" path="./iotop" revision="TRY_Master" />
-  <project name="STM32_VN9D30Q100F_Library" path="./STM32_VN9D30Q100F_Library" revision="TRY_Master" />
+
+
+  <project name="Forest-Cxh/iotop" path="./iotop" revision="TRY_Master" />
+  <project name="Forest-Cxh/STM32_VN9D30Q100F_Library" path="./STM32_VN9D30Q100F_Library" revision="TRY_Master" />
 </manifest>
